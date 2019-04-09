@@ -34,4 +34,5 @@ int main()
     {
         r.Reg();
     }
+   cout<<"";
 }
